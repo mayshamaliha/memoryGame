@@ -1,0 +1,14 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    vertical-align: middle;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 5%;
+    
+}
+h1{
+    padding-left: 30%;
+}
